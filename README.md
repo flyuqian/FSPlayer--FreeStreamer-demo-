@@ -5,3 +5,4 @@
 
 >  ` FreeStreamer ` 的地址为 ` https://github.com/muhku/FreeStreamer `
 
+> 音频资源貌似不能上传, 需要自己拖几个音频文件, 并在ViewController里对应修改下, 😂
